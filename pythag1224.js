@@ -1,3 +1,5 @@
+// JavaScript
+
 let A = 1224;
 let found = false;
 for (let a=1; found == false; a=a+1) {

@@ -1,3 +1,4 @@
+! Fortran 
 program pythag1224
         integer :: area = 1224
         integer :: a = 1

@@ -1,4 +1,5 @@
 /*
+C version
 Compile command: gcc pythag1224.c -o pythag1224 -lm
 */
 #include <stdio.h>
